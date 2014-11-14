@@ -1,0 +1,4 @@
+# English strings go here for Rails i18n
+en:
+  field_author: Author
+  author_must_exist_in_system: 'Must exist in the system!'

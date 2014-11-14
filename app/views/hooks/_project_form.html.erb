@@ -1,0 +1,4 @@
+<p>
+  <%= form.label :author %>
+  <%= form.collection_select :author_id, User.all, :id, :name %>
+</p>

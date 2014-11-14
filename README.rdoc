@@ -1,0 +1,4 @@
+= Project author plugin
+
+This is simple plugin which adds project author field. You can assign any registered user existing in the Redmine
+installation.Plugin also ensures not to assign non-existing user as project author.
